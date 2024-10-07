@@ -10,7 +10,8 @@
 * พิกัด x (int) เช่น 2
 * พิกัด y (int) เช่น -1
 * ชื่อสินค้า (str) เช่น apple
-**Input:** ผู้ใช้ input `num` = 7
+**Input:**
+ผู้ใช้ input `num` = 7
 ```
 7
 1
